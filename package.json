@@ -1,0 +1,24 @@
+{
+  "name": "javascript-example",
+  "version": "1.0.0",
+  "description": "javascript examples",
+  "main": "observable.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raajeew/promise-and-async-await.git"
+  },
+  "author": "Rajeev Ranjan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/raajeew/promise-and-async-await/issues"
+  },
+  "homepage": "https://github.com/raajeew/promise-and-async-await#readme",
+  "dependencies": {},
+  "type": "module",
+  "devDependencies": {
+    "rxjs": "^6.6.2"
+  }
+}
